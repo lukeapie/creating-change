@@ -160,12 +160,12 @@ layout: base
                     {%- if page.feature-buttons == true -%}
                       {%- if _article_header_align == 'center' -%}
                         <center>
-                          <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
-                          <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }} color: #fff" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a>
+                          <a class="button button--primary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
+                          <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a>
                         </center>
                       {%- else -%}
-                        <a class="button button--secondary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
-                        <a class="button button--secondary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }} color: #fff" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a>
+                        <a class="button button--primary button--rounded button--xl" style="background-color: #2C2F33" href="{{ page.feature-button-dark-url }}">{{ page.feature-button-dark-title }}</a>
+                        <a class="button button--primary button--rounded button--xl" style="background-color: #{{ page.feature-button-color-hex }}" href="{{ page.feature-button-color-url }}">{{ page.feature-button-color-title }}</a>
                       {%- endif -%}
                     {%- endif -%}
                     {%- if page.article_header.actions -%}
