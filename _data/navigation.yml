@@ -1,0 +1,51 @@
+header:
+  - title:      Home
+  - title:      About
+    url:        /about
+  - title:      Rules
+    url:        /rules
+  - title:      Servers
+    url:        /servers
+  - title:      Support
+    url:        /hc/getting-started
+    key:        support
+  - title:      Staff
+    url:        /staff
+
+
+help-center:
+  - title:      For players
+    children:
+      - title:  Getting started
+        url:    /hc/getting-started
+      - title:  Rules and regulations
+        url:    /hc/rules-and-regulations
+      - title:  Content moderation
+        url:    /hc/content-moderation
+      - title:  Titles and honors
+        url:    /hc/titles-and-honors
+  - title:      For members
+  - title:      For builders
+  - title:      For staff
+    children:
+      - title:  Professional toolbox
+        url:    #
+
+
+mod-training:
+  - title:      Getting Started
+    children:
+      - title:  Introduction
+        url:    /training/mod/introduction
+  - title:      Back to Basics
+    children:
+      - title:  (1.1) Darkstone's Circles
+        url:    /training/mod/darkstones-circles
+      - title:  (1.2) Mission Statement
+        url:    /training/mod/mission-statement
+  - title:      Nitty Gritty
+    children:
+      - title:  (2.1) Positional Structure
+        url:    /training/mod/positional-structure
+      - title:  (2.2) Team Member Guidelines
+        url:    /training/mod/team-member-guidelines
