@@ -5,10 +5,10 @@ excerpt: From the most wealthy areas, to the most impoverished, food security af
 permalink: /
 mode: immersive
 header:
-  theme: dark
+  theme: default
 article_header:
   type: overlay
-  theme: dark
+  theme: default
   align: center
   background_image:
     src: ../assets/images/hero.png
