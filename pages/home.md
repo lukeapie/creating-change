@@ -11,13 +11,13 @@ article_header:
   theme: default
   align: center
   background_image:
-    src: ../assets/images/hero.png
+    src: https://lukepie.github.io/creating-change/assets/images/hero.png
 feature-buttons: true
-feature-button-dark-title: Learn about the issue
-feature-button-dark-url: https://lukeapie.github.io/creating-change/issue
+feature-button-light-title: Learn about the issue
+feature-button-light-url: https://lukeapie.github.io/creating-change/issue
 feature-button-color-title: Understand its impacts
 feature-button-color-url: https://lukeapie.github.io/creating-change/impacts
-feature-button-color-hex: 7289DA
+feature-button-color-hex: 27AE60
 ---
 
 Image: Mike McDade / Penn State
