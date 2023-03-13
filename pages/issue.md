@@ -61,19 +61,22 @@ Of [Centre County in 2020](https://fred.stlouisfed.org/series/CBR42027PAA647NCEN
   	<p>of the population lived below the poverty line.</p>
   </div>
 </div>
-<h6>Data from the <a href="https://www.cbpp.org/research/food-assistance/a-closer-look-at-who-benefits-from-snap-state-by-state-fact-sheets#Pennsylvania">Center on Policy and Budget Priorities</a></h6>
+
+*Data from the [Center on Policy and Budget Priorities](https://www.cbpp.org/research/food-assistance/a-closer-look-at-who-benefits-from-snap-state-by-state-fact-sheets#Pennsylvania)*
 
 As part of this $2,001 baseline in Pennsylvania, households who might have never needed to consider SNAP benefits like during the COVID-19 pandemic with job losses might have not taken advantage of these resources available to them. These inflexbile baselines for certain individuals might have also meant foregoing a promotion or pay rise with the fear of no longer qualifying for nutrition assistance, and leaving themselves significantly undercovered.
 
 What results is a system of inescapable food insecurity that both individuals and households can struggle to climb out of for a variety of these factors. 
 
 ### 2. Generated food waste 
+In addition to food insecurity created as the result of government systematic inefficiencies, a contributuing factor to food insecurity for many households is food that is taken from the general supply and wasted by households and organizations.
 
+It is estimated that 30-40% of all food products are ultimately thrown out by sellers or consumers that would be adequate to consume otherwise.  
 
 <h2>Retailer case study</h2>
 <div class="grid">
   <div class="cell cell--6">
-  	<img style="max-width: 95%" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
+  	<img style="max-width: 90%; margin-top: 1rem;" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
   </div>
   <div class="cell cell--4">
   	<div class="item__header">
@@ -86,8 +89,7 @@ What results is a system of inescapable food insecurity that both individuals an
   </div>
 </div>
 
-
-## Insecurity in our backyard
+## Insecurity in our backyards
 Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity. 
 
 <img src="https://lukeapie.github.io/creating-change/assets/images/feedingamerica.png">
