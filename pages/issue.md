@@ -24,26 +24,14 @@ Data from [Feeding America](https://feedingamerica.org) paints a partial picture
 
 Even still, 13,660 of Centre County residents are food insecure on some level. The United Nations as part of its [Sustainable Development Goals](https://sdgs.un.org) sets a target for:
 
-<div class="grid-container">
-    <div class="cell cell--2" style="background-color: #C8901F">
-      <div class="item">
-        <div class="item__content">
-          <div class="item__header">
-            <h3 style="opacity: 0.3">2</h3>
-          </div>
-        </div>
-      </div>
+ <div class="grid">
+  <div class="cell cell--2" style="background-color: #C8901F">
+  	<h3 style="opacity: 0.3">2</h3>
   </div>
-  <div class="cell cell--6" style="background-color: #C8901F">
-    <div class="item">
-      <div class="item__content">
-        <div class="item__header">
-          <h3 style="color: #fff">End hunger, achieve food security and improved nutirition and promote sustainable agriculture</h3>
-        </div>
-      </div>
-    </div>
+  <div class="cell cell--5" style="background-color: #C8901F">
+  	<h3 style="color: #fff">End hunger, achieve food security and improved nutirition and promote sustainable agriculture</h3>
   </div>
- </div>
+</div>
 
 ...and Centre County still falls short by 13,660.
 
