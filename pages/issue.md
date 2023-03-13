@@ -39,7 +39,7 @@ In Pennsylvania, to be eligible for Supplemental Nutrition Assistance Program (S
 
 The reality of a stagnant limit for many households is that benefits are not sufficiently allocated; individuals in a variety of circumstances, like some of those above, can teeter on the edge of qualification, and not recieive benefits they might realistically need. Conversely, other individuals who meet these requirements might not need this government-provided benefit in which they qualify. 
 
-In [Centre County in 2020](https://fred.stlouisfed.org/series/CBR42027PAA647NCEN), 7,161 residents were the recipients of government-provided supplemental nutrition benefits. By the numbers in Pennsylvania:
+Of [Centre County in 2020](https://fred.stlouisfed.org/series/CBR42027PAA647NCEN), 7,161 residents were the recipients of government-provided supplemental nutrition benefits. By the numbers in Pennsylvania:
 
 <div class="grid">
   <div class="cell cell--6">
@@ -69,13 +69,20 @@ What results is a system of inescapable food insecurity that both individuals an
 
 ### 2. Generated food waste 
 
+
+<h2>Retailer case study</h2>
 <div class="grid">
   <div class="cell cell--6">
-  	<img style="max-width: 25%" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
+  	<img style="max-width: 95%" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
   </div>
   <div class="cell cell--4">
-  	<h3>Case Study: Wegmans Food Markets</h3>
-  	<a class="button button--primary button--rounded button--xl" style="background-color: #27AE60" href="https://lukeapie.github.io/issue/wegmans">Learn about their work</a>
+  	<div class="item__header">
+    	<h3>Wegmans Food Markets</h3>
+    </div>
+    <div class="item__description">
+    	<p>Learn about how Wegmans Food Markets as a retailer is helping to combat food waste as part of their operations in Centre County, Pennsylvania</p>
+    	<a class="button button--secondary button--rounded button--lg" href="https://lukeapie.github.io/issue/wegmans">Learn about their work</a>
+    </div>
   </div>
 </div>
 
