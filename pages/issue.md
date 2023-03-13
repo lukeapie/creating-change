@@ -71,10 +71,10 @@ What results is a system of inescapable food insecurity that both individuals an
 
 <div class="grid">
   <div class="cell cell--6">
-  	<img src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
+  	<img style="max-width: 25%" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
   </div>
   <div class="cell cell--4">
-  	<h3>Case Study: Wegmans Food Markets<h3>
+  	<h3>Case Study: Wegmans Food Markets</h3>
   	<a class="button button--primary button--rounded button--xl" style="background-color: #27AE60" href="https://lukeapie.github.io/issue/wegmans">Learn about their work</a>
   </div>
 </div>
