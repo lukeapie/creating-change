@@ -20,7 +20,7 @@ In general, when understanding food security, it can be best examined in four di
 Primarily, food insecurity exists as problem because of systematic issues that allow for food insecurity to persist in our communities. More specifically, in State College, PA:
 1. Cycles of household insecurity as part of government-provided food benefits
 2. Food waste driven by household and institution use
-3. Lack of necessary education coupled with university dining options
+3. Lack of necessary education around responsible and sustainable consumption
 
 ### 1. Cycles of household insecurity
 Food security is a complex issue to understand as the result of its role in our lives everyday. Insecurity for someone may look entirely different from person to person. Consider the following scenarios:
@@ -88,6 +88,9 @@ It is estimated that 30-40% of all food products are ultimately thrown out by se
     </div>
   </div>
 </div>
+
+### 3. Much-needed consumer education
+
 
 ## Insecurity in our backyards
 Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity. 

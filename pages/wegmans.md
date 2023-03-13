@@ -2,26 +2,14 @@
 layout: article
 title: Wegmans case study
 permalink: /issue/wegmans
-mode: immersive
-header:
-  theme: default
-article_header:
-  type: overlay
-  theme: default
-  align: center
-  background_image:
-    src: https://lukeapie.github.io/creating-change/assets/images/wegmans-hero.jpeg
-feature-buttons: false
 ---
-
-The Wegmans store in State College, PA. Image: Geoff Rushton / StateCollege.com
 
 As a New York-based retailer, Wegmans Food Markets has been working to push zero-waste initiatives into its stores; one of the key components of reducing [Food Insecurity](https://lukeapie.github.io/creating-change/issue). The retailer says it follows a three-pronged approach of "reduce, reuse, recycle". 
 
 ## Food Recovery Hierarchy
 As part of a national effort to reduce the leading cause of food waste, the United States [Environmental Protection Agency](https://epa.gov) (EPA) has developed sets of sustainable goals to address these concerns. 
 
-<img src="https://lukeapie.github.io/creating-change/asssets/images/food-recovery-epa.jpg">
+<img src="https://lukeapie.github.io/creating-change/assets/images/food-recovery-epa.jpg">
 
 A five-tiered approach, from the "most preferred" to the "least preferred" was created by the EPA to outline how we should handle food waste. 
 
