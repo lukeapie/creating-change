@@ -83,8 +83,8 @@ It is estimated that 30-40% of all food products are ultimately thrown out by se
     	<h3>Wegmans Food Markets</h3>
     </div>
     <div class="item__description">
-    	<p>Learn about how Wegmans Food Markets as a retailer is helping to combat food waste as part of their operations in Centre County, Pennsylvania</p>
-    	<a class="button button--secondary button--rounded button--lg" href="https://lukeapie.github.io/issue/wegmans">Learn about their work</a>
+    	<p>Learn about how Wegmans Food Markets as a retailer is helping to combat food waste as part of their operations in Centre County, Pennsylvania.</p>
+    	<a class="button button--secondary button--rounded button--lg" href="https://lukeapie.github.io/creating-change/issue/wegmans">Learn about their work</a>
     </div>
   </div>
 </div>
