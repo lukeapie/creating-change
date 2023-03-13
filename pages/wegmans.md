@@ -14,11 +14,12 @@ As part of a national effort to reduce the leading cause of food waste, the Unit
 A five-tiered approach, from the "most preferred" to the "least preferred" was created by the EPA to outline how we should handle food waste. 
 
 <div class="grid">
-  <div class="cell cell--3">
+  <div class="cell cell--6">
   	<img src="https://lukeapie.github.io/creating-change/assets/images/food-recovery-epa.jpg">
   </div>
-  <div class="cell cell--6">
+  <div class="cell cell--auto">
   	<p>From <a href="https://www.epa.gov/sustainable-management-food/food-recovery-hierarchy">its website:</a> "The top levels of the hierarchy are the best ways to prevent and divert wasted food because they create the most benefits for the environment, society and the economy."</p>
+  	<p>As outlined by the hierarchy, methods that aren't an effective use of available resources, like composting or sending product to a landfill, is discouraged. Wegmans Food Markets uses composting as a last resort for products that can't be placed elsewhere in its system, as outlined below.</p>
   </div>
 </div>
 

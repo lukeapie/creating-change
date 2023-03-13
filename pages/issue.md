@@ -93,11 +93,11 @@ It is estimated that 30-40% of all food products are ultimately thrown out by se
 
 
 ## Insecurity in our backyards
-Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity. 
+Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity:
 
 <img src="https://lukeapie.github.io/creating-change/assets/images/feedingamerica.png">
 
-Even still, 13,660 of Centre County residents are food insecure on some level. The United Nations as part of its [Sustainable Development Goals](https://sdgs.un.org) sets a target to:
+Even still, 13,660 of Centre County residents are food insecure on some level. The United Nations as part of its [Sustainable Development Goals](https://sdgs.un.org) sets a target to
 
 <h4>#2: End hunger, achieve food security and improved nutirition and promote sustainable agriculture</h4>
 
