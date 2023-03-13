@@ -1,7 +1,7 @@
 ---
 layout: feature
-title: Food Security is a people issue.
-excerpt: From the most wealthy areas, to the most impoverished, food security affects all of us. Even in our own community of State College, PA. 
+title: Food Security is a human issue.
+excerpt: From the most wealthy areas, to the most impoverished; food security affects all of us. Even in our own community of State College, PA. 
 permalink: /
 mode: immersive
 header:
