@@ -86,7 +86,7 @@ It is estimated that 30-40% of all food products are ultimately thrown out by se
 
 <div class="grid">
   <div class="cell cell--3">
-    <h3>$240 billion annually
+    <h3>$240 billion annually</h3>
   </div>
   <div class="cell cell--auto">
     <p>Is the dollar value of food which will be wasted by American households according to a study from <a href="https://www.psu.edu/news/research/story/study-suggests-us-households-waste-nearly-third-food-they-acquire/">Penn State researchers</a>.</p>
