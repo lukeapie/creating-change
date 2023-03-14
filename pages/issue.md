@@ -94,17 +94,23 @@ It is estimated that 30-40% of all food products are ultimately thrown out by se
   </div>
 </div>
 
+<hr>
 <iframe width="858" height="483" src="https://www.youtube.com/embed/VCqDaPVyrpQ" title="US Households Waste Nearly a Third of their Food" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<hr>
 
-That money is used where it's needed, too. Penn State researchers also found that food waste is the lowest among households who already recive supplemental nutrition benefits from the government.
+That money is used where it's needed, too. Penn State researchers also found that food waste is the lowest among households who already recive supplemental nutrition benefits from the government, too.
 
+From the article, Penn State researches found that:
 > *"Based on our estimation, the average American household wastes 31.9% of the food it acquires...More than two-thirds of households in our study have food-waste estimates of between 20% and 50%. However, even the least wasteful household wastes 8.7% of the food it acquires."*
-> "A household of two may not eat an entire head of cauliflower, so some could be wasted, whereas a larger household is more likely to eat all of it, perhaps at a single meal."
+<br>
+
+> *"A household of two may not eat an entire head of cauliflower, so some could be wasted, whereas a larger household is more likely to eat all of it, perhaps at a single meal."*
 
 *-- Edward Jaenicke, professor of agricultural economics at Penn State University*
 
-The research is clear: households **and** businesses are both to blame for our food waste problem. 
+The research is clear: households **and** businesses are both to blame for our food waste problem, and it's an issue that we can fix through a change in our behaviors.
 
+<hr>
 <h2>Retailer case study</h2>
 <div class="grid">
   <div class="cell cell--6">
@@ -120,6 +126,7 @@ The research is clear: households **and** businesses are both to blame for our f
     </div>
   </div>
 </div>
+<hr>
 
 Fundamentally, both businesses and American households need to reduce the waste they're producing. With enough food-insecure individuals that exist in our communities, these wasted food items have the potential to significantly improve the circumstances of struggling neighbors. 
 
@@ -130,7 +137,6 @@ Here on-campus, Penn State wastes **455,000 pounds of food a semester** from [th
 13,660 people in our Centre County community are considered food insecure, and we throw away enough of our dining hall meals to feed all of Beaver Stadium four times over. Families in our local community shouldn't be going hungry when more than plenty is available. This is a systematic failure driven by consumer and institutional behavior. 
 
 ### 3. Much-needed consumer education
-
-
+more text to come...
 
 <!-- <iframe width="560" height="315" src="https://map.feedingamerica.org/county/2020/overall/pennsylvania/county/centre"></iframe> -->
