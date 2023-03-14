@@ -2,20 +2,12 @@ header:
   - title:      Home
   - title:      About
     url:        /about
-  - title:      Research
-    children:
-      - title:  Learn
-        url:    /iss/learn
-      - title:  Externalities
-        url:    /iss/externalities
-      - title:  Resources
-        url:    /iss/resources
-#  - title:      Learn
-#    url:        /iss/learn
-#  - title:      Externalities
-#    url:        /iss/externalities
-#  - title:      Resources
-#    url:        /iss/resources
+  - title:      Learn
+    url:        /iss/learn
+  - title:      Externalities
+    url:        /iss/externalities
+  - title:      Resources
+    url:        /iss/resources
 
 research:
   - title:      Project research
