@@ -113,7 +113,7 @@ The research is clear: households **and** businesses are both to blame for our f
 <h2>Retailer case study</h2>
 <div class="grid">
   <div class="cell cell--6">
-  	<img style="max-width: 90%; margin-top: 1rem;" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
+  	<img class="wegmans-img" src="https://lukeapie.github.io/creating-change/assets/images/wegmans.png">
   </div>
   <div class="cell cell--4">
   	<div class="item__header">

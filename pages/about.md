@@ -5,8 +5,8 @@ permalink: /about
 ---
 
 <div class="grid">
-  <div class="cell cell--3">
-  	<img style="border-radius: 50%; margin-right: 1.5rem;" src="https://lukeapie.github.io/creating-change/assets/images/luke.jpg">
+  <div class="cell cell--4">
+  	<img style="border-radius: 50%; padding: 1rem;" src="https://lukeapie.github.io/creating-change/assets/images/luke.jpg">
   </div>
   <div class="cell cell--auto">
   	<p>Hi, I'm Luke!</p>
