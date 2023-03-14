@@ -210,7 +210,21 @@ defaults:
       show_edit_on_github: false
       show_subscribe: true
       pageview: true
-
+  ## research
+  - scope:
+      path: "pages"
+    values:
+      layout: article
+      nav_key: iss
+      sidebar:
+        nav: []
+      license: false
+      aside:
+        toc: false
+      show_edit_on_github: false
+      show_date: true
+      pageview: true
+      # lightbox: true
 
 ## => Plugins
 ##############################
