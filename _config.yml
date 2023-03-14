@@ -212,7 +212,7 @@ defaults:
       pageview: true
   ## research
   - scope:
-      path: "pages"
+      path: "research"
     values:
       layout: article
       nav_key: iss
@@ -220,7 +220,7 @@ defaults:
         nav: []
       license: false
       aside:
-        toc: false
+        toc: true
       show_edit_on_github: false
       show_date: true
       pageview: true

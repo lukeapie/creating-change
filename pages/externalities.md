@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Negative externalities and food insecurity
-permalink: /externalities
+title: Unintended externalities
+permalink: /iss/externalities
 ---
 
 More to come!

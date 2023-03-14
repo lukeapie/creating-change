@@ -1,7 +1,7 @@
 ---
 title: Understanding food security
-permalink: /issue
-key: iss-issue
+permalink: /iss/learn
+key: iss-learn
 ---
 
 Understanding the many components of food security as an issue is important in understanding its impacts and potential solutions to communities. Often, its existence and effects can be invisible to members of the community; which is why more awarness is needed even in realitively food-stable areas.

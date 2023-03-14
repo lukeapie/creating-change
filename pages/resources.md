@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Resolution and applicable resources
-permalink: /resources
+permalink: /iss/resources
 ---
 
 More to come!
