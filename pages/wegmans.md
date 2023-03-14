@@ -40,3 +40,5 @@ From a [corporate press release](https://www.wegmans.com/news-media/press-releas
 2. Partnerships with food pantries and food banks means unsellable product can be donated and used by those organizations
 3. Food scraps are used in applications with livestock where these other uses may not apply
 4. Use in composting and use in alternative fueling if these other areas do not apply
+
+More information to come...

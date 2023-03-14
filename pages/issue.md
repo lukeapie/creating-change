@@ -22,6 +22,17 @@ Primarily, food insecurity exists as problem because of systematic issues that a
 2. Food waste driven by household and institution use
 3. Lack of necessary education around responsible and sustainable consumption
 
+## Insecurity in our backyards
+Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity:
+
+<img src="https://lukeapie.github.io/creating-change/assets/images/feedingamerica.png">
+
+Even still, 13,660 of Centre County residents are food insecure on some level. The United Nations as part of its [Sustainable Development Goals](https://sdgs.un.org) sets a target to
+
+<h4>#2: End hunger, achieve food security and improved nutirition and promote sustainable agriculture</h4>
+
+...and Centre County still falls short by 13,660. Additionally, data from Feeding America maintains that ~$8 million in additional funding is needed to sufficiently address food insecurity in our neighborhoods. That's ~$8 million that many residens don't realize is needed for struggling members of their communities.
+
 ### 1. Cycles of household insecurity
 Food security is a complex issue to understand as the result of its role in our lives everyday. Insecurity for someone may look entirely different from person to person. Consider the following scenarios:
 
@@ -35,7 +46,7 @@ Food security is a complex issue to understand as the result of its role in our 
 
 Depending on your interpretation, the individuals in these scenarios may or may not meet the definition of being food insecure. 
 
-In Pennsylvania, to be eligible for Supplemental Nutrition Assistance Program (SNAP) benefits as a single person with no depedents, you must "...have a current bank balance (savings and checking combined) under $2,001..." according to [benefits.gov](https://www.benefits.gov/benefit/1169). 
+In Pennsylvania, to be eligible for Supplemental Nutrition Assistance Program (SNAP) benefits as a single person with no depedents, you must be both a resident and "...have a current bank balance (savings and checking combined) under $2,001..." according to [benefits.gov](https://www.benefits.gov/benefit/1169). 
 
 The reality of a stagnant limit for many households is that benefits are not sufficiently allocated; individuals in a variety of circumstances, like some of those above, can teeter on the edge of qualification, and not recieive benefits they might realistically need. Conversely, other individuals who meet these requirements might not need this government-provided benefit in which they qualify. 
 
@@ -73,6 +84,27 @@ In addition to food insecurity created as the result of government systematic in
 
 It is estimated that 30-40% of all food products are ultimately thrown out by sellers or consumers that would be adequate to consume otherwise.  
 
+<div class="grid">
+  <div class="cell cell--3">
+    <h3>$240 billion annually
+  </div>
+  <div class="cell cell--auto">
+    <p>Is the dollar value of food which will be wasted by American households according to a study from <a href="https://www.psu.edu/news/research/story/study-suggests-us-households-waste-nearly-third-food-they-acquire/">Penn State researchers</a>.</p>
+    <p>The cost to households is ~$1,866 in food which will never be consumed; shorting families and those who could use the extra nutrition.</p>
+  </div>
+</div>
+
+<iframe width="858" height="483" src="https://www.youtube.com/embed/VCqDaPVyrpQ" title="US Households Waste Nearly a Third of their Food" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+That money is used where it's needed, too. Penn State researchers also found that food waste is the lowest among households who already recive supplemental nutrition benefits from the government.
+
+> *"Based on our estimation, the average American household wastes 31.9% of the food it acquires...More than two-thirds of households in our study have food-waste estimates of between 20% and 50%. However, even the least wasteful household wastes 8.7% of the food it acquires."*
+> "A household of two may not eat an entire head of cauliflower, so some could be wasted, whereas a larger household is more likely to eat all of it, perhaps at a single meal."
+
+*-- Edward Jaenicke, professor of agricultural economics at Penn State University*
+
+The research is clear: households **and** businesses are both to blame for our food waste problem. 
+
 <h2>Retailer case study</h2>
 <div class="grid">
   <div class="cell cell--6">
@@ -89,18 +121,16 @@ It is estimated that 30-40% of all food products are ultimately thrown out by se
   </div>
 </div>
 
+Fundamentally, both businesses and American households need to reduce the waste they're producing. With enough food-insecure individuals that exist in our communities, these wasted food items have the potential to significantly improve the circumstances of struggling neighbors. 
+
+Consider our own community at Penn State; most on-campus students eat meals in a buffet-style cafeteria. Have you ever thought, "It's no extra cost to me, might as well grab another one. I might want it in a minute." I have, too. 
+
+Here on-campus, Penn State wastes **455,000 pounds of food a semester** from [thinking similar to this](https://www.collegian.psu.edu/news/campus/food-waste-from-campus-dining-commons-could-feed-fans-of-four-sold-out-penn-state/article_e7477c52-bf72-11e7-bf44-273401e7ee3e.html). 
+
+13,660 people in our Centre County community are considered food insecure, and we throw away enough of our dining hall meals to feed all of Beaver Stadium four times over. Families in our local community shouldn't be going hungry when more than plenty is available. This is a systematic failure driven by consumer and institutional behavior. 
+
 ### 3. Much-needed consumer education
 
 
-## Insecurity in our backyards
-Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity:
-
-<img src="https://lukeapie.github.io/creating-change/assets/images/feedingamerica.png">
-
-Even still, 13,660 of Centre County residents are food insecure on some level. The United Nations as part of its [Sustainable Development Goals](https://sdgs.un.org) sets a target to
-
-<h4>#2: End hunger, achieve food security and improved nutirition and promote sustainable agriculture</h4>
-
-...and Centre County still falls short by 13,660. Additionally, data from Feeding America maintains that ~$8 million in additional funding is needed to sufficiently address food insecurity in our neighborhoods. That's ~$8 million that many residens don't realize is needed for struggling members of their communities.
 
 <!-- <iframe width="560" height="315" src="https://map.feedingamerica.org/county/2020/overall/pennsylvania/county/centre"></iframe> -->
