@@ -14,9 +14,9 @@ article_header:
     src: https://lukeapie.github.io/creating-change/assets/images/hero.png
 feature-buttons: true
 feature-button-dark-title: Learn about the issue
-feature-button-dark-url: https://lukeapie.github.io/creating-change/issue
+feature-button-dark-url: https://lukeapie.github.io/creating-change/iss/learn
 feature-button-color-title: Understand its impacts
-feature-button-color-url: https://lukeapie.github.io/creating-change/impacts
+feature-button-color-url: https://lukeapie.github.io/creating-change/iss/externalities
 feature-button-color-hex: 27AE60
 ---
 
