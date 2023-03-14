@@ -2,19 +2,27 @@ header:
   - title:      Home
   - title:      About
     url:        /about
-  - title:      Learn
-    url:        /iss/learn
-  - title:      Externalities
-    url:        /iss/externalities
-  - title:      Resources
-    url:        /iss/resources
+  - title:      Research
+    children:
+      - title:  Learn
+        url:    /iss/learn
+      - title:  Externalities
+        url:    /iss/externalities
+      - title:  Resources
+        url:    /iss/resources
+#  - title:      Learn
+#    url:        /iss/learn
+#  - title:      Externalities
+#    url:        /iss/externalities
+#  - title:      Resources
+#    url:        /iss/resources
 
 research:
   - title:      Project research
     children:
       - title:  Undertanding the issue
         url:    /iss/learn
-      - title:  Resulting unintended externalities
+      - title:  Unintended externalities
         url:    /iss/externalities
       - title:  Resources and solutions
         url:    /iss/resources
