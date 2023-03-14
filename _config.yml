@@ -217,7 +217,7 @@ defaults:
       layout: article
       nav_key: iss
       sidebar:
-        nav: []
+        nav: research
       license: false
       aside:
         toc: true
