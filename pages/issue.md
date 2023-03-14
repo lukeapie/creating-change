@@ -85,11 +85,11 @@ In addition to food insecurity created as the result of government systematic in
 It is estimated that 30-40% of all food products are ultimately thrown out by sellers or consumers that would be adequate to consume otherwise.  
 
 <div class="grid">
-  <div class="cell cell--3">
-    <h3>$240 billion annually</h3>
+  <div class="cell cell--4">
+    <p class="em-stat">$240 billion</p>
   </div>
   <div class="cell cell--auto">
-    <p>Is the dollar value of food which will be wasted by American households according to a study from <a href="https://www.psu.edu/news/research/story/study-suggests-us-households-waste-nearly-third-food-they-acquire/">Penn State researchers</a>.</p>
+    <p>Is the dollar value of food which will be wasted by American households annually according to a study from <a href="https://www.psu.edu/news/research/story/study-suggests-us-households-waste-nearly-third-food-they-acquire/">Penn State researchers</a>.</p>
     <p>The cost to households is ~$1,866 in food which will never be consumed; shorting families and those who could use the extra nutrition.</p>
   </div>
 </div>
@@ -110,7 +110,6 @@ From the article, Penn State researches found that:
 
 The research is clear: households **and** businesses are both to blame for our food waste problem, and it's an issue that we can fix through a change in our behaviors.
 
-<hr>
 <h2>Retailer case study</h2>
 <div class="grid">
   <div class="cell cell--6">
