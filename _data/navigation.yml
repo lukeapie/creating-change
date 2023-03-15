@@ -12,7 +12,7 @@ header:
 research:
   - title:      Project research
     children:
-      - title:  Undertanding the issue
+      - title:  Understanding the issue
         url:    /iss/learn
       - title:  Unintended externalities
         url:    /iss/externalities
