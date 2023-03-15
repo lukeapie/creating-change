@@ -23,7 +23,7 @@ Primarily, food insecurity exists as problem because of systematic issues that a
 3. Lack of necessary education around responsible and sustainable consumption
 
 ## Insecurity in our backyards
-Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre county ranks among one of the lower rates of food insecurity:
+Data from [Feeding America](https://feedingamerica.org) paints a partial picture of where food security exists here in the United States. Among other counties in Pennsylvania, Centre County ranks among one of the lower rates of food insecurity:
 
 <img src="https://lukeapie.github.io/creating-change/assets/images/feedingamerica.png">
 
@@ -48,7 +48,7 @@ Depending on your interpretation, the individuals in these scenarios may or may 
 
 In Pennsylvania, to be eligible for Supplemental Nutrition Assistance Program (SNAP) benefits as a single person with no depedents, you must be both a resident and "...have a current bank balance (savings and checking combined) under $2,001..." according to [benefits.gov](https://www.benefits.gov/benefit/1169). 
 
-The reality of a stagnant limit for many households is that benefits are not sufficiently allocated; individuals in a variety of circumstances, like some of those above, can teeter on the edge of qualification, and not recieive benefits they might realistically need. Conversely, other individuals who meet these requirements might not need this government-provided benefit in which they qualify. 
+The reality of a stagnant limit for many households is that benefits are not sufficiently allocated; individuals in a variety of circumstances, like some of those above, can teeter on the edge of qualification, and not recieive benefits they might realistically need. Conversely, other individuals who meet these requirements might not need this government-provided benefit in which they qualify for a variety of reasons.
 
 Of [Centre County in 2020](https://fred.stlouisfed.org/series/CBR42027PAA647NCEN), 7,161 residents were the recipients of government-provided supplemental nutrition benefits. By the numbers in Pennsylvania:
 
