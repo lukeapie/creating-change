@@ -26,7 +26,7 @@ A five-tiered approach, from the "most preferred" to the "least preferred" was c
 ## Role as a retailer
 With these goals in mind, retailier Wegmans has established its waste-eliminating guidelines as outlined by the EPA. The retailer says it follows a three-pronged approach of "reduce, reuse, recycle". 
 
-From their efforts beginning in 2016, most notably, Wegmans has rolled out these sustainablilty iniatives company-wide to help reduce food waste in the communities inw hich they operate.
+From their efforts beginning in 2016, most notably, Wegmans has rolled out these sustainablilty iniatives company-wide to help reduce food waste in the communities where they operate.
 
 According to their [sustainability website](https://www.wegmans.com/values-in-action/sustainability-at-wegmans/), Wegmans has donated 26.8 million pounds of food (perishable and nonperishable) through these corporate responsibility efforts in 2021.
 
